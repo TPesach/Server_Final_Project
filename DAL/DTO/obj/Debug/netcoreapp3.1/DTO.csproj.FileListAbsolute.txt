@@ -1,0 +1,13 @@
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\BAT2\Desktop\פרוייקט טאבי\DAL\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
